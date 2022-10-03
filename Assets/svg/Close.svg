@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="svg-icon svg-icon-light w-3rem h-3rem" width="64"  height="64" ><defs><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="close-1">
+    <title>Close</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M41.999 20.002l-22 22m22 0L20 20" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+  </symbol></defs>
+<use xlink:href="#close-1" stroke="#FFFFF3" stroke-width="2px"> </use>
+</svg>

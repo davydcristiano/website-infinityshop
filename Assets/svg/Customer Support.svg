@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="svg-icon service-icon" width="64"  height="64" ><defs><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="customer-support-1">
+    <title>Customer Support</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2" d="M24 40.5V44c0 2 .6 5-10.4 7A14.6 14.6 0 0 0 2 62h59a14.3 14.3 0 0 0-11.4-11C39 49 40 46 40 44v-5" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <path data-name="layer1" d="M46.4 33H51a3.3 3.3 0 0 0 3-3v-7a3.3 3.3 0 0 0-3-3h-5m-28 0h-6a3.3 3.3 0 0 0-3 3v7a3.3 3.3 0 0 0 3 3h5.2" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <path data-name="layer2" d="M46 18C26 18 26 4 26 4s1 12-8 15m18 43l9.6-12m-27.7 0L28 62M17.9 50a10.8 10.8 0 0 1-4.9-4c4-4 5-20 5-20m28 0s0 16 4 20a10.7 10.7 0 0 1-4.7 4" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <path data-name="layer2" d="M26 42c-4.7-2.9-8-8.8-8-16V16C18 5.6 25.4 2 32 2s14 3.6 14 14v16c0 4-4 7-6 7" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <path data-name="layer1" d="M40 38.9a2.9 2.9 0 0 0-2.9-2.9h-2.2a2.9 2.9 0 0 0-2.9 2.9 3 3 0 0 0 2.9 3.1H37a3 3 0 0 0 3-3.1z" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+  </symbol></defs>
+<use xlink:href="#customer-support-1" stroke="#FFFFFF" stroke-width="2px"> </use>
+</svg>

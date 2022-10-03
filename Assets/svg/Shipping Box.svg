@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="svg-icon service-icon" width="64"  height="64" ><defs><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="shipping-box-1">
+    <title>Shipping Box</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M62 15.3L32 2 2 15.3v33.4L32 62l30-13.3V15.3z" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <path data-name="layer2" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M2 15.3l30 13.3 30-13.3M18.4 8l30 13.3M32 28.6V62" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <path data-name="layer1" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M54 31.6l-12 5.3v11.3l12-5.3V31.6z" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+  </symbol></defs>
+<use xlink:href="#shipping-box-1" stroke="#FFFFFF" stroke-width="2px"> </use>
+</svg>

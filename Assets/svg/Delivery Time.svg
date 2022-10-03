@@ -1,0 +1,12 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="svg-icon service-icon" width="64"  height="64" ><defs><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="delivery-time-1">
+    <title>Delivery Time</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M62 46v-5l-8-7h-8" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <circle data-name="layer2" cx="24" cy="54" r="4" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></circle>
+    <circle data-name="layer2" cx="54" cy="54" r="4" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></circle>
+    <path data-name="layer2" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M50 54H28m-8 0h-4v-8h46v8h-4M24.5 24H46v22m-30 0V29.8M2 38h6m-2 8h2" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+    <circle data-name="layer1" cx="14" cy="18" r="12" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></circle>
+    <path data-name="layer1" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M14 12v8h6" stroke-linejoin="round" stroke-linecap="round" style="--darkreader-inline-stroke:#ffffff;" data-darkreader-inline-stroke=""></path>
+  </symbol></defs>
+<use xlink:href="#delivery-time-1" stroke="#FFFFFF" stroke-width="2px"> </use>
+</svg>
